@@ -2,6 +2,8 @@
 
 #Year: 2023
 
+# https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13946
+
 #File Name: elevation.dat.drags.csv
 #Description: Species’ traits of Nearctic Libelluloidea dragonflies that were used for the analyses to test the relationship between a species’ relative wing size and features of its elevational distribution. Species in this analysis are those that are present in a pruned, maximum credibility phylogeny that was produced by Rocha-Ortega et al. 2020 (Proceedings of the Royal Society of London B). The pruned version of the phylogeny used in the analyses for these data has the file name ‘phylo.drags.elev.tre’. The R scripts that use this dataset are named “code for dragonfly elevational distribution.R”. 
 #Rows: 302, excluding the header. Each row corresponds to a species 
